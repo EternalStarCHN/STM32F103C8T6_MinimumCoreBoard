@@ -1,0 +1,2 @@
+# STM32F103C8T6_MinimumCoreBoard
+ STM32F103C8T6CoreBoardPCB
