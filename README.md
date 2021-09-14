@@ -26,4 +26,4 @@
 | 32.768K       | Crystal Oscillator      | Y1                         | MC-306          |
 | 8M            | Crystal Oscillator      | Y2                         | XTAL-49S DIP    |  
 # License
-STM32F103C8T6_MinimumCoreBoard is Licensed under [BSD-3-Clause License](https://github.com/EternalStarCHN/STM32F103C8T6_MinimumCoreBoard/blob/main/LICENSE).
+STM32F103C8T6_MinimumCoreBoard is Licensed under [GNU General Public License v3.0](https://github.com/EternalStarCHN/STM32F103C8T6_MinimumCoreBoard/blob/main/LICENSE).
